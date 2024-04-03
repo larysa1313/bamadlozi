@@ -1,0 +1,147 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fed8ed;
+}
+header{
+    background-color: #d1d1d1;
+    text-align: center;
+}
+p{
+    color: #2d2f4b;
+    opacity: 100%;
+}
+.pg{
+    width: 30%;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    border-radius: 30px;
+    
+}
+.dg{
+    width: 36%;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    border-radius: 30px;
+}
+.tg{
+    width: 30%;
+    height: 150px;
+    float: left;
+    margin: 10px;
+    border-radius: 30px;
+    box-shadow: grey;
+}
+img{
+    width: 250px;
+    border-radius: 50px;
+    border: #2d2f4b 1px solid;
+    margin: 12px 0px 0px 0px;
+    
+}
+aside{
+    background-color: #d1d1d1;
+    box-shadow: #2d2f4b;
+    width: 10%;
+    height: 550px;
+    float: left;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: scroll;
+    scrollbar-color: #696a7b #38394e;
+    scrollbar-width: thin;
+    
+    
+}
+
+.zdj{
+    width: 186px;
+    border-radius: 50px;
+    border: #2d2f4b 1px solid;
+    margin: 12px 0px 0px 0px;
+    
+}
+main{
+    width: 1400px;
+    height: 550px;
+    background-color: #fed8ed;
+    float: left;
+    
+    border-style: solid;
+    border-bottom: 1px;
+    border-top: 1px;
+    border-color: rgb(229, 156, 208);
+    
+}
+.prawy{
+    width: 10%;
+    height: 550px;
+    background-color: #d1d1d1;
+    float: left;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+footer{
+    clear: both;
+    background-color: rgb(244, 168, 223);
+    height: 100px;
+}
+menu{
+    clear: both;
+    background-color: #d1d1d1;
+    height: 60px;
+    float: left;
+    width: 100%;
+    border-bottom: rgb(229, 156, 208) 3px solid;
+    overflow: hidden;
+    background-color: #d1d1d1;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+h1{
+    font-size: 350%;
+    font-family:  Calibri;
+
+}
+h2{
+    font-family: Calibri;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0%;
+    
+}
+
+.men{
+    text-align: center;
+    display: block;
+    
+    padding: 21px 50px 21px 50px;
+  
+    background-color: #d1d1d1;
+    font-size: 130%;
+    font-family: Calibri;
+    border: none;
+    float: left;
+    
+}
+.men:hover{
+    background-color: rgb(229, 156, 208);
+}
+#os{
+    margin-left: 30%;
+}
+.tlo{
+    background-color: rgba(229, 156, 208, 0.5);
+    margin: 10px;
+    border-radius: 10px;
+    
+    padding: 90px;
+}
+.tek{
+    opacity: 100%;
+}
